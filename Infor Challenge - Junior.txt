@@ -1,0 +1,5 @@
+﻿IAM permissions needed:
+* Create lambda role
+* AWSLambdaBasicExecutionRole Policy
+* User Access Key
+* User Secret Key
